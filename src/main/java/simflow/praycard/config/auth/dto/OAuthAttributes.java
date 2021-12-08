@@ -2,8 +2,8 @@ package simflow.praycard.config.auth.dto;
 
 import lombok.Builder;
 import lombok.Getter;
-import simflow.praycard.domain.user.Role;
-import simflow.praycard.domain.user.User;
+import simflow.praycard.domain.Role;
+import simflow.praycard.domain.User;
 
 import java.util.Map;
 

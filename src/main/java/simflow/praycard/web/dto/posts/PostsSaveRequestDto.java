@@ -3,7 +3,7 @@ package simflow.praycard.web.dto.posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import simflow.praycard.domain.posts.Posts;
+import simflow.praycard.domain.Posts;
 
 @Getter
 @NoArgsConstructor

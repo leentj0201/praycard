@@ -1,6 +1,7 @@
-package simflow.praycard.domain.user;
+package simflow.praycard.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import simflow.praycard.domain.User;
 
 import java.util.Optional;
 

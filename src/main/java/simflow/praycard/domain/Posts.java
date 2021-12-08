@@ -1,4 +1,4 @@
-package simflow.praycard.domain.posts;
+package simflow.praycard.domain;
 
 import lombok.Builder;
 import lombok.Getter;

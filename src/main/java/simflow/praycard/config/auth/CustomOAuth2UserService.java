@@ -11,8 +11,8 @@ import org.springframework.security.oauth2.core.user.OAuth2User;
 import org.springframework.stereotype.Service;
 import simflow.praycard.config.auth.dto.OAuthAttributes;
 import simflow.praycard.config.auth.dto.SessionUser;
-import simflow.praycard.domain.user.User;
-import simflow.praycard.domain.user.UserRepository;
+import simflow.praycard.domain.User;
+import simflow.praycard.repository.UserRepository;
 
 import javax.servlet.http.HttpSession;
 import java.util.Collections;

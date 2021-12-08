@@ -1,4 +1,4 @@
-package simflow.praycard.domain.user;
+package simflow.praycard.domain;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

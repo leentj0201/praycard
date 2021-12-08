@@ -1,7 +1,7 @@
 package simflow.praycard.config.auth.dto;
 
 import lombok.Getter;
-import simflow.praycard.domain.user.User;
+import simflow.praycard.domain.User;
 
 import java.io.Serializable;
 
