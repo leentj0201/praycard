@@ -15,6 +15,7 @@ public class Pray extends BaseTimeEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "pray_id")
     private Long id;
 
     @Column(length = 500, nullable = false)
